@@ -14,6 +14,8 @@ builder.Services.AddDbContext<WashFlowDbContext>(options =>
 
 builder.Services.AddScoped<IStationService, StationService>();
 builder.Services.AddScoped<IMaintenanceService, MaintenanceService>();
+builder.Services.AddScoped<IProgramService, ProgramService>();
+builder.Services.AddScoped<IReportService, ReportService>();
 
 var app = builder.Build();
 

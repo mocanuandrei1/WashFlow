@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WashFlow.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b87a74ae5b98227447e3a534879cc050a1b6989")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d6c829d6682cd873d78113b2f39c8089e2cee26")]
 [assembly: System.Reflection.AssemblyProductAttribute("WashFlow.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WashFlow.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

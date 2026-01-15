@@ -2918,19 +2918,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\murek\\.nuget\\packages\\": {}
+    "C:\\Users\\dragh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\murek\\Documents\\WashFlow\\WashFlow.Api\\WashFlow.Api.csproj",
+      "projectUniqueName": "C:\\Users\\dragh\\OneDrive\\Desktop\\WashFlow\\WashFlow.Api.csproj",
       "projectName": "WashFlow.Api",
-      "projectPath": "C:\\Users\\murek\\Documents\\WashFlow\\WashFlow.Api\\WashFlow.Api.csproj",
-      "packagesPath": "C:\\Users\\murek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\murek\\Documents\\WashFlow\\WashFlow.Api\\obj\\",
+      "projectPath": "C:\\Users\\dragh\\OneDrive\\Desktop\\WashFlow\\WashFlow.Api.csproj",
+      "packagesPath": "C:\\Users\\dragh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dragh\\OneDrive\\Desktop\\WashFlow\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\murek\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dragh\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
